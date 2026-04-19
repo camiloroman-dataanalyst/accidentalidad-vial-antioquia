@@ -53,10 +53,10 @@ Datos Abiertos Colombia — Gerencia de Seguridad Vial de Antioquia
 ![Temporal](Capturas/pag2_temporal.png)
 
 ### Análisis Geográfico
-![Geografico](Capturas/pag3_geografico.png)
+![Geografico](Capturas/pag4_geografico.png)
 
 ### Causas y Condiciones
-![Causas](Capturas/pag4_causas.png)
+![Causas](Capturas/pag3_causas.png)
 
 ## 👤 Autor
 Camilo Roman  
